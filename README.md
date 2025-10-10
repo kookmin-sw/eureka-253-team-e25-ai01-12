@@ -83,6 +83,12 @@
     Sixth Sense팀이 생각해 낸 '손을 이용해 현실 세계를 곧바로 컴퓨터 인터페이스로 만드는 기술'은 현재에 많은 영향을 미쳐서 AR/VR, 스마트 글래스, 제스처 인식 기술 등으로 이어지고 있다.
 
   - 우리가 상상한 미래
+ 
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0930237f-ba50-4647-ac92-947569d00e94" />
+
+
+
+
   - 우리가 그리는 미래 그리고 나
 
 - 각오와 소감 나누기 ✔️  
