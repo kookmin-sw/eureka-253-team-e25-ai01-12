@@ -86,6 +86,16 @@
  
    <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0930237f-ba50-4647-ac92-947569d00e94" />
 
+   <img width="1536" height="2730" alt="image" src="https://github.com/user-attachments/assets/bc522fef-c056-4cb5-b7a8-676a8bd3ffa6" />
+
+   https://cdn.discordapp.com/attachments/1419880674252554290/1426095950228885544/v0269cg10004d3kaianog65r83p2t3dg.mp4?ex=68f1e3da&is=68f0925a&hm=3d1a26051f3ecb1a1e6c0fdf24b28325d093ebe60ca2a028990d9d2eb187717b&
+
+  
+
+
+   
+
+
 
 
 
