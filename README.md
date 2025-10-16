@@ -86,9 +86,18 @@
  
    <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0930237f-ba50-4647-ac92-947569d00e94" />
 
-   <img width="1536" height="2730" alt="image" src="https://github.com/user-attachments/assets/bc522fef-c056-4cb5-b7a8-676a8bd3ffa6" />
+   
+   <img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/24d556eb-b8eb-4e62-8ab6-d752786fb85f" />
 
-   https://cdn.discordapp.com/attachments/1419880674252554290/1426095950228885544/v0269cg10004d3kaianog65r83p2t3dg.mp4?ex=68f1e3da&is=68f0925a&hm=3d1a26051f3ecb1a1e6c0fdf24b28325d093ebe60ca2a028990d9d2eb187717b&
+  ● 미래 교육과 AI의 역할
+    - 아파트 발코니를 보면, 테이블에 앉아서 공부를 하고 있는 아이들을 확인할 수 있다. 그 옆에는 인간형 로봇이 선생님이나 튜터 역할을 하면서 아이들의 학업을 돕고있다.
+
+  ● 미래형 도시와 친환경 에너지
+    - 플라잉카가 하늘 위를 떠다니고 있다. 이는 교통 체증이 한결 완화된 미래의 모습을 보여준다.
+    - 건물 옥상과 길가에는 태양광 패널이 즐비해있다. 이는 에너지를 자체적으로 생산하는 제로 에너지 도시를 상징한다.
+    - 도시 속에 녹지를 확보하기 위한 노력들이 보인다. 이는 도시 열섬 효과를 완화시켜주고, 공기도 정화시켜주는 역할을 한다.
+      
+  ● 구현하고자 한 느낌 | 푸른 하늘 아래, 깨끗하고 질서 정연한 도시. 지속가능한발전을 목표로 하면서도, 첨단 기술과 AI기술을 적극적으로 활용해서 삶의 질을 향상시키는 미래 도시.
 
   
 
