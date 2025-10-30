@@ -110,8 +110,9 @@
 
   - 우리가 그리는 미래 그리고 나
  
-    ![Uploading 유레카 프로젝트 초안.jpg…]()
+    
 
+   ![유레카 프로젝트 포스터](https://github.com/user-attachments/assets/91598bea-f249-4a95-be43-db9a8ed7d9ee)
 
 - 각오와 소감 나누기 ✔️  
 
